@@ -1,5 +1,5 @@
 ### EX1 Creation of Employee, Weather dataset in WEKA Data Mining and Analysis Tool and perform Preprocessing
-### DATE: 
+### DATE: 11/03/2025
 ### AIM: 
   To Create Employee, Weather dataset in WEKA Data Mining and Analysis Tool and perform preprocessing
 ### PROCEDURE: 
@@ -52,10 +52,6 @@ rainy,75.0,80.0,false,yes
 7) Explorer shows many options. In that click on ‘open file’ and select the arff file
 8) Click on edit button which shows employee table on weka.
 
-### OUTPUT:
-
-
-
 ### PREPROCESSING
 ### Procedure:
 #### 1) Add -> Pre-Processing Technique:
@@ -75,6 +71,9 @@ rainy,75.0,80.0,false,yes
 14) Click on the Edit button, it shows a new Weather Table on Weka.
 
 ### OUTPUT:
+![WhatsApp Image 2025-02-22 at 14 42 49_3547e3a2](https://github.com/user-attachments/assets/6303b427-0645-44cc-b293-1d22d5cd9cc3)
+
+![WhatsApp Image 2025-02-22 at 14 34 39_cd62e082](https://github.com/user-attachments/assets/338e4d4c-4afd-4b86-a848-ae630f86e086)
 
 ### 2) Remove -> Pre-Processing Technique:
 
@@ -91,6 +90,9 @@ rainy,75.0,80.0,false,yes
 11) Click on the Edit button, it shows a new Weather Table on Weka.
 
 ### OUTPUT:
+![WhatsApp Image 2025-02-22 at 14 43 34_c58fbfd5](https://github.com/user-attachments/assets/6b5a1468-d776-4018-af5d-beaebc172d08)
+
+![WhatsApp Image 2025-02-22 at 14 32 54_508c773f](https://github.com/user-attachments/assets/c12e1032-8c96-4ae8-9d7e-f2860e77fd14)
 
 ### Normalize -> Pre-Processing Technique:
 
@@ -107,5 +109,9 @@ rainy,75.0,80.0,false,yes
 11) Click on the Edit button, it shows a new Weather Table with normalized values on Weka.
 
 ### OUTPUT:
+![WhatsApp Image 2025-02-22 at 14 44 05_ee983247](https://github.com/user-attachments/assets/7da12242-829e-4011-9ad7-da21b2712c03)
+
+![WhatsApp Image 2025-02-22 at 14 35 40_dd67f561](https://github.com/user-attachments/assets/ccbb2dc3-afdd-4b1d-a88c-42c29cc95322)
+
 ### RESULT: 
   Thus the program for generating employee and weather datasets has been developed, and preprocessing has been accomplished successfully.
